@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "firebase": "^8.2.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "^3.4.3"
@@ -29,6 +30,7 @@
     ]
   },
   "devDependencies": {
+    "firebase-tools": "^9.1.0",
     "jest-junit": "^10.0.0"
   },
   "jest-junit": {
